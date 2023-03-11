@@ -1,1 +1,13 @@
-/* your styles go here */
+
+.con-loc{
+    /* border: 2px solid red; */
+    width: 80vw;
+    height: 20px;
+    display: inline;
+    /* margin-top: 70px; */
+}
+.icon-number-holder{
+    display: flex;
+    align-items: center;
+    justify-content:left;
+}
